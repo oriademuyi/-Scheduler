@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987168369383",
+    "project_id": "muyitodo",
+    "storage_bucket": "muyitodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987168369383:android:0d6b083eb126b1ec87d042",
+        "android_client_info": {
+          "package_name": "com.example.muyi_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987168369383-5c5nj18q76s35m98jf27d6advk60h30i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMxtRrLfpaxPSBKwH28TXKv88KU6QpX8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987168369383-5c5nj18q76s35m98jf27d6advk60h30i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
