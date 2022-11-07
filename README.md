@@ -1,16 +1,9 @@
-# muyi_todo
 
-A new Flutter project.
+Scheduler up to date app that helps a registered user to keep and monitor day to day activities with push notification service.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+ A user can can add todo with time and date
+ A user can delete todo after compeletion 
+ A user has access to all the list of todo.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Note: you can only have full access after a sucessful registration or login.
